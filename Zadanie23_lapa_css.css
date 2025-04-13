@@ -1,0 +1,34 @@
+p#odstepy_lapacz {
+    font-size: 30pt;
+    color: darkred;
+    letter-spacing: 10px;
+}
+p#pochylone_lapacz {
+	font-size: 30pt;
+	font-style: italic;
+	color: blue;
+}
+p#powiekszone_lapacz {
+	font-size: 60pt;
+	color: green;
+}
+p#pomniejszone_lapacz {
+	font-size: 10pt;
+	color: brown;
+}
+
+p#cien_lapacz {
+    font-size: 30pt;
+    color: navy;
+    text-shadow: 2px 2px 4px gray;
+}
+p#czcionka_lapacz {
+  font-size: 30pt;
+  color: pink;
+  font-family: arial;
+}
+p#podkreslenie_lapacz {
+    font-size: 30pt;
+    color: darkblue;
+    text-decoration: underline wavy green;
+}
